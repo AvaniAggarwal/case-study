@@ -1,0 +1,10 @@
+body{
+    background-color: maroon;
+    border: 10px groove goldenrod;
+    font-family: 'Inconsolata', monospace;
+    color: goldenrod;
+}
+#test{
+    width: 400px;
+    height: 400px;
+}
